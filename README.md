@@ -1,2 +1,2 @@
 # Password-Generator
-Gerador de senhas feito em python
+Password Gerator in Python
