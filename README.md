@@ -16,9 +16,9 @@
 ## How to run the application:
 
 1) Click in folder "dist"
-2) Click in "Password Generaotor.exe"
+2) Click in "Password Generator.exe"
 3) Click in download
-4) Run shell: cd and where you saved the password generaotor
+4) Run shell: cd and where you saved the password generator
 5) Run shell: password generator.exe
 6) Type the amount of characters 
 7) Choose whether to run again
