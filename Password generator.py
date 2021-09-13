@@ -4,7 +4,7 @@ resposta = 'S'
 
 while resposta == 'S': 
     print("\n-------------------------------")
-    print("\n------GERADOR DE SENHAS------")
+    print("\n------PASSWORD GENERATOR------")
     print("\n-------------------------------")
 
     lower = "abcdefghijklmnopqrstuvwxyz"
