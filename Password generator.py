@@ -22,4 +22,4 @@ while resposta == 'S':
     print("\nA senha gerada é : ", senha)
     print("\n-------------------------------")
 
-resposta = str(input("\nRun again? [S/N] "))
+    resposta = str(input("\nRun again? [S/N] ")).upper()
