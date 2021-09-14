@@ -22,3 +22,5 @@
 5) Run shell: password generator.exe
 6) Type the amount of characters 
 7) Choose whether to run again
+
+![Cmder-2021-09-13-21-08-08](https://user-images.githubusercontent.com/84638124/133173169-eb44ece7-6d57-4997-9c50-747c8fb36906.gif)
