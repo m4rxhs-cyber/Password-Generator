@@ -13,12 +13,12 @@ while resposta == 'S':
 
     lower = "abcdefghijklmnopqrstuvwxyz"
     upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    symbols = "[]{}+!@#$%&*()./-_"
+    symbols = "!@#$%&*"
     numbers = "0123456789"
 
     juncao = lower + upper + symbols + numbers
 
-    tamanho = int(input("\nQual a quantidade de caracteres você deseja?(LIMITE 85 CARACTÉRES): ")) 
+    tamanho = int(input("\nQual a quantidade de caracteres você deseja?(LIMITE 69 CARACTÉRES): ")) 
 
     senha = "".join(random.sample(juncao, tamanho))
 
